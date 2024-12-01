@@ -19,12 +19,13 @@ https://app.interactsh.com/#/
 Install and Dependency Notes
 ----------------------------
 If building from source, Interocitor uses the following Go modules.
-INI File Reader:
-go get gopkg.in/ini.v1
-Maps:
-go get golang.org/x/exp/maps
-DNS:
-go get github.com/miekg/dns
+
+INI File Reader:	go get gopkg.in/ini.v1
+
+Maps:	go get golang.org/x/exp/maps
+
+DNS:	go get github.com/miekg/dns
+
 
 Overview
 --------
@@ -153,7 +154,7 @@ interocitor --mode cmd --task singlecmd -v --cmd ls --params ‘-al’ -d ./conf
  
 DNS Mode
 --------
-
+[still under development]
 
 
 Timing and Triggers for Multiple Operations and Multiple Exfiltrations
