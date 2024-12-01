@@ -1,0 +1,12 @@
+host:Host
+xff:X-Forwarded-For
+ref:Referer
+cfcon:CF-Connecting_IP
+contact:Contact
+rip:X-Real-IP
+trip:True-Client-IP
+xclip:X-Client-IP
+ff:Forwarded
+origip:X-Originating-IP
+clip:Client-IP
+from:From
